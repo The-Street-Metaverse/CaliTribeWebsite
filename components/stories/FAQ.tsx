@@ -12,7 +12,7 @@ const FAQ: FunctionComponent = () => {
           title: 'Why do I need a Cultivar?',
           content: (
             <>
-              The Cali Tribe Cultivars is more than an art project, it is a game on the The monsters will be tied to a p2e game with elements of the RPG and Tamagotchi, which is in its early stages of development. The economic part will be built around the $TROPHY usability token, and the first stage with the farming part will become available after the main sale. Later you will be able to feed, care for and improve your monster. We also want to <a href="#">make a bot</a> for the convenience of our community members there. Discord bot will repeat the browser game mechanics and will be released with a slight delay from the browser game. This will be the start of a long journey for Monster Shelter.
+The Street Cultivars are a collection of 9 Cannabis Tribes of 16,710 for each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California.
             </>
           )
         },
