@@ -13,7 +13,7 @@ const ExploreContainerBanner: FunctionComponent<ExploreContainerBannerProps> = (
             src={asset.image} 
             alt={asset.title}
             width="330"
-            height="330"
+            height="495"
             priority
             unoptimized={Configuration.unoptimizedImages}
             loader={Configuration.imagesLoader}
