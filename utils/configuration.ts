@@ -21,7 +21,7 @@ const Configuration: AppConfiguration = {
    collection: {
      type: 'opensea',
      protocol: 'matic',
-     slug: 'cali-tribe-v2',
+     slug: 'cali-tribe-cultivars',
      apiToken: 'e8aee6c785c043f09c7cc9337e333e61'
    },
 
