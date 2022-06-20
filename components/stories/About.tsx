@@ -12,10 +12,7 @@ const About: FunctionComponent = () => {
       subtitle={(
         <div>
           <p>
-            A catalog of digital NFT Art Collectables with embedded membership goodies for holders; and the genesis of the “Cultivar” genre of avatar creations for participating brand merchants, flower-loving collectors, and traders belonging to the Cannabis Tribes Member Community. These little farmhand creatures love to till the land, grow the flower, and pack the buds
-            Monster Shelter is a generative collection of animated monsters NFT with a variety of colorful backgrounds, 
-            inspired by horror culture. Each monster has up to 10 traits on itself and its own color palette, 
-            creating an individual appearance and character of the animal.
+            The Street Cultivars are a collection of 9 Cannabis Tribes of 16,710 for each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California. All Cultivars exist on the Polygon Blockchain. Their holders can participate in "The Street Metaverse" game and exclusive events such as NFT airdrops, legendary giveaways, contests, and more. Cultivar adoptors, welcome to the Tribe reservation! Visit https://calitri.be to learn more about adoptor rights and benefits.
           </p>
           <p>
            Buy Cultivars, Earn Cultivar Rewards and Experience Cultivar Grade Flower Power from the Best Growers!
