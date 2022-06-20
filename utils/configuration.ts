@@ -28,7 +28,7 @@ const Configuration: AppConfiguration = {
   /** Rarible Config example */
    collection: {
        type: 'rarible',
-       blockchain: 'POLYGON',
+       blockchain: 'MATIC',
        address: '0xaad450bc250f30990b659b3016ffa751e993347b'
    }
 }
@@ -45,7 +45,7 @@ if (isInvalidApiToken) {
 
 interface RaribleCollection {
   type: 'rarible'
-  blockchain: 'ETHEREUM' | 'POLYGON' | 'FLOW' | 'TEZOS' | string
+  blockchain: 'ETHEREUM' | 'POLYGON' | 'FLOW' | 'TEZOS' | 'MATIC' | string
   address: string
 }
 
