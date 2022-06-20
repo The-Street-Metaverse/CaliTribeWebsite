@@ -26,11 +26,11 @@ const Configuration: AppConfiguration = {
    },
 
   /** Rarible Config example */
-  // collection: {
-  //     type: 'rarible',
-  //     blockchain: 'TEZOS',
-  //     address: 'KT1L7GvUxZH5tfa6cgZKnH6vpp2uVxnFVHKu'
-  // }
+   collection: {
+       type: 'rarible',
+       blockchain: 'POLYGON',
+       address: '0xaad450bc250f30990b659b3016ffa751e993347b'
+   }
 }
 
 // API Token
