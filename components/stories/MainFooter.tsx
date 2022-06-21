@@ -5,13 +5,13 @@ import SocialLink from '../elements/SocialLink';
 
 const MainFooter: FunctionComponent = () => {
   const social = useMemo(() => ([
-    'https://medium.com/',
+//    'https://medium.com/',
     'https://discord.com/',
-    'https://twitter.com/',
+    'https://twitter.com/cultivartribe',
     'https://www.facebook.com/',
-    'https://www.instagram.com/',
-    'https://www.tiktok.com/',
-    'https://www.youtube.com/',
+    'https://www.instagram.com/thecultivartribes/',
+//    'https://www.tiktok.com/',
+//    'https://www.youtube.com/',
   ]), []);
 
   return (
