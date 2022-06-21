@@ -20,11 +20,11 @@ const FAQ: FunctionComponent = () => {
         },
         {
           title: 'Can I trade my Cultivars?',
-          content: 'Of course! Street Cultivars will be distributed according to the ERC-721 standard. You will be able to trade them on platforms like OpenSea.'
+          content: 'Of course! Street Cultivars will be distributed according to the ERC-721 standard. You will be able to trade them on platforms like OpenSea or Rarible.'
         },
         {
           title: 'What is The Street Metaverse Game?',
-          content: 'The Street Metaverse Game is a unity game with blockchain elements. The NFT you minted is tied to the game and becomes your pet. By sending a monster to the Hunt, you will earn $TROPHY utility tokens, which in the future you can exchange and spend in the in-game store for useful items and rare NFT. Parallel to this, you will need to take care of the pet, feed it, raise its level, send it to wild duels and climb the leaderboard. A breeding system will also be introduced in one of the future updates. The bot will be a copy of the browser game for Discord server.'
+          content: 'The Street Metaverse Game is a unity game with blockchain elements. The NFT you minted is tied to the game and becomes your cultivar character. By sending a cultivar to the Harvest, you will earn $REAL utility tokens, which in the future you can exchange and spend in the in-game store for valuable items and rare NFT. Parallel to this, you will need to take care of the cultivar, water it, raise its level, send it to wild harvests and climb the leaderboard. A cultivating system will also be introduced in one of the future updates.'
         },
         {
           title: 'What is a REAL Token',
@@ -32,16 +32,16 @@ const FAQ: FunctionComponent = () => {
         },
         {
           title: 'When is the Game release?',
-          content: 'The game itself is in an early stage of development. After the main sale, the first stage of the game will open. You will have the opportunity to send a monster on a hunt to farm tokens in several different locations. With updates, we will add new features: wild duels, in-game store, breeding and much more! We want to provide you with a quality and profitable product, so we don’t want to rush and plan a long and confident development together with the community. Main game mechanics will be introduced in the first half of 2022.'
+          content: 'The Street Metavertse game itself is in an early stage of development. After the main sale, the first modules of the game will open. You will have the opportunity to see your cultivar in 3D and ultimately on sending your cultivar on a hunt to farm tokens in several locations, search for 24k Gold treasure, and more. We will add new features with updates: cannabis harvesting, an in-game store, and much more! We want to provide you with the best Metaverse experience, so we dont want to rush and plan a long and confident development together with the community. Main game mechanics will be introduced in the first half of 2023.'
         },
         {
           title: 'Will it be possible to influence the development of the project?',
           content: 'Yes! Based on the feedback and discussions of our members in social networks and chats, we will adjust the development of the project, add new game mechanics and change the current ones.'
-        },
-        {
-          title: 'How will donations be made?',
-          content: 'After the main sale, when the 100% target is reached, we make a large donation to several worldwide animal-related organizations. The community will choose by voting where exactly to donate the money. But we do not want this to be a one-time promotion, as animals need food and care every day. Therefore, on a monthly basis, we will donate a percentage of secondary sales, also electing organizations by voting among the community.'
         }
+ //       {
+ //         title: 'How will Tree donations be made?',
+ //         content: 'After the main sale, when the 100% target is reached, we make a large donation to several worldwide tree-related organizations. The community will choose by voting where exactly to donate the money. But we do not want this to be a one-time promotion, as animals need food and care every day. Therefore, on a monthly basis, we will donate a percentage of secondary sales, also electing organizations by voting among the community.'
+ //       }
       ]} 
     />
   )
