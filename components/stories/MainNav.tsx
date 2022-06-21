@@ -36,7 +36,7 @@ const MainNav: FunctionComponent = () => {
         }
       ]}
       button={{
-        title: 'Adopt a Cultivar',
+        title: 'WHERE TO BUY',
         href: 'https://opensea.io/assets/matic/0xd0c009379d5f1ae71c34623c4ddd775051e9a164/10'
       }}
     />
