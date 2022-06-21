@@ -8,7 +8,7 @@ const MainFooter: FunctionComponent = () => {
 //    'https://medium.com/',
     'https://discord.com/',
     'https://twitter.com/cultivartribe',
-    'https://www.facebook.com/',
+    'https://www.facebook.com/streetcultivars',
     'https://www.instagram.com/thecultivartribes/',
 //    'https://www.tiktok.com/',
 //    'https://www.youtube.com/',
