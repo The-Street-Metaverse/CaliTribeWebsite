@@ -7,7 +7,7 @@ const MainFooter: FunctionComponent = () => {
   const social = useMemo(() => ([
 //    'https://medium.com/',
     'https://discord.com/',
-    'https://twitter.com/cultivartribe',
+    'https://twitter.com/cultivartribes',
     'https://www.facebook.com/streetcultivars',
     'https://www.instagram.com/thecultivartribes/',
 //    'https://www.tiktok.com/',
