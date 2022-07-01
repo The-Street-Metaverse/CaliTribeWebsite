@@ -12,7 +12,7 @@ const About: FunctionComponent = () => {
       subtitle={(
         <div>
           <p>
-            The Street Cultivars are a collection of ten Cannabis Tribes of 16,710 for each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California. All Cultivars exist on the Polygon Blockchain. Their holders can participate in "The Street Metaverse" game and exclusive events such as NFT airdrops, legendary giveaways, contests, and more. Cultivar adoptors, welcome to the Tribe reservation! 
+            The Street Cultivars are a collection of ten Cannabis Tribes with 16,710 members for each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California. All Cultivars exist on the Polygon Blockchain. Their holders can participate in "The Street Metaverse" game and exclusive events such as NFT airdrops, legendary giveaways, contests, and more. Cultivar adoptors, welcome to the Tribe reservation! 
             Visit https://calitri.be to learn more about adoptor rights and benefits.
           </p>
           <p>  
