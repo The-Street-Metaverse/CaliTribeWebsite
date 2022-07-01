@@ -22,7 +22,7 @@ const About: FunctionComponent = () => {
       )}
     >
       <div>
-        <iframe style={{ aspectRatio: '560 / 315', width: '100%' }} src="https://www.youtube-nocookie.com/embed/ysuZ_SW2bK0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe style={{ aspectRatio: '560 / 315', width: '100%' }} src="https://www.youtube-nocookie.com/embed/sEb32onUzDs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
       </div>
     </AboutContainer>
   )
