@@ -12,7 +12,7 @@ const FAQ: FunctionComponent = () => {
           title: 'Why do I need a Cultivar?',
           content: (
             <>
-            The Street Cultivars are a collection of 9 Cannabis Tribes of 16,710 for each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California.
+            The Street Cultivars are a collection of Ten Cannabis Tribes with 16,710 members in each Tribe of NFTs. In addition, there are 5 Warrior tribes and 5 Matriarch Tribes. The first tribe introduced in the "Cultivar" genre is an early edition of the Warrior Cali Tribe, derived from the word 'Cali,' which is short for California.
             
             All Cultivars exist on the Polygon Blockchain. Their holders can participate in "The Street Metaverse" game and exclusive events such as NFT airdrops, legendary giveaways, contests, and more. Cultivar adoptors, welcome to the Tribe reservation! Visit https://calitri.be to learn more about adoptor rights and benefits.
             </>
@@ -32,7 +32,7 @@ const FAQ: FunctionComponent = () => {
         },
         {
           title: 'When is the Game release?',
-          content: 'The Street Metavertse game itself is in an early stage of development. After the main sale, the first modules of the game will open. You will have the opportunity to see your cultivar in 3D and ultimately on sending your cultivar on a hunt to farm tokens in several locations, search for 24k Gold treasure, and more. We will add new features with updates: cannabis harvesting, an in-game store, and much more! We want to provide you with the best Metaverse experience, so we dont want to rush and plan a long and confident development together with the community. Main game mechanics will be introduced in the first half of 2023.'
+          content: 'The Street Metaverse game itself is in an early stage of development. After the main sale, the first modules of the game will open. You will have the opportunity to see your cultivar in 3D and ultimately on sending your cultivar on a hunt to farm tokens in several locations, search for 24k Gold treasure, and more. We will add new features with updates: cannabis harvesting, an in-game store, and much more! We want to provide you with the best Metaverse experience, so we dont want to rush and plan a long and confident development together with the community. Main game mechanics will be introduced in the first half of 2023.'
         },
         {
           title: 'Will it be possible to influence the development of the project?',
