@@ -19,9 +19,9 @@ const TimelineContainerItem: FunctionComponent<TimelineContainerItemProps> = ({ 
           width="330"
           height="330"
           priority
-//          unoptimized
-          unoptimized={Configuration.unoptimizedImages}
-          loader={Configuration.imagesLoader}
+          unoptimized
+//          unoptimized={Configuration.unoptimizedImages}
+//          loader={Configuration.imagesLoader}
         />
       </div>
       {/* Title */}
