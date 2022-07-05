@@ -5,7 +5,7 @@ const Roadmap: FunctionComponent = () => {
   return (
     <TimelineContainer id="roadmap" title="Roadmap" items={[
       {
-        image: 'https://u.pcloud.link/publink/show?code=XZRQY4VZn0btyLiRNcQQl4V0Maspv8WCLWdX',
+        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/master/images/buggy.gif',
         title: ' Early Release  - All Sales',
         content: (<>
           &#183; Whitelist for Gold NFT Certificate Giveway<br />
