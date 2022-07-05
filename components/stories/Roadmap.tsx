@@ -5,7 +5,7 @@ const Roadmap: FunctionComponent = () => {
   return (
     <TimelineContainer id="roadmap" title="Roadmap" items={[
       {
-        image: 'https://ibb.co/tML4bRY',
+        image: 'https://lh3.googleusercontent.com/o6APZAFIoXG-cY4qXVlImJGuxLqJaDmmE-E3fQVSCk-ZFOonys7bfWMMtjBxW22O-4-g6oOzjHt3IZM02XnjE7-M2dPcvss3EcFpbcM=w330',
         title: ' Early Release  - All Sales',
         content: (<>
           &#183; Whitelist for Gold NFT Certificate Giveway<br />
