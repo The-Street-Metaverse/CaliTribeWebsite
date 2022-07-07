@@ -13,7 +13,7 @@ const Roadmap: FunctionComponent = () => {
         </>)
       },
 //      {
-//        image: 'https://lh3.googleusercontent.com/o6APZAFIoXG-cY4qXVlImJGuxLqJaDmmE-E3fQVSCk-ZFOonys7bfWMMtjBxW22O-4-g6oOzjHt3IZM02XnjE7-M2dPcvss3EcFpbcM=w330',
+//        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/f80be2ddc9dd192771ee83cea3022e6f3dda3114/images/RastaFrog.svg',
 //        title: 'Main Release for 10K Cali Tribe',
 //        content: '&#183; Pre-order the Cultivar Collectives eBook'
 //      },
@@ -28,23 +28,23 @@ const Roadmap: FunctionComponent = () => {
 //        content: 'Unique Hand Painted NFT designed specially for 5 holders (with their own purchaed NFT'
 //      },
       {
-        image: 'https://lh3.googleusercontent.com/bDUhgMzEZmqsqmxVeTH6TlZvVWARNPVN13Cn8e0S1Hor9NCIhtHxCaPMQgguQ7HxM7OHEFWArdvOUlTH8XJB_Fn1laVL6MR-r8Af=w330',
+        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/f80be2ddc9dd192771ee83cea3022e6f3dda3114/images/RastaFrog.svg',
         title: '2nd Edition 1000 Sales',
         content: (<> &#183; Early Edition Rarity Cali Tribe Hand Painted Art work Giveaway<br />
         &#183; Main Edition Early Edition Rarity Cali Tribe Hand Painted Art work Giveaway</>)
       },
       {
-        image: 'https://lh3.googleusercontent.com/zNjBdItP4cMzotosSDNsZm1bySmfc9xdHwwC0EzKKhMwEVVZjhG7PxapSE8yidq7HMNl1B8LbgPj42ZDHi6chH0K3dZPhbm8rB69Vg=w330',
+        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/f80be2ddc9dd192771ee83cea3022e6f3dda3114/images/RastaFrog.svg',
         title: '3000 sales',
         content: 'Unique 1/1 NFT for Holders'
       },
       {
-        image: 'https://lh3.googleusercontent.com/cUabcEQS1yFxENEZpb4FvoBfmHFQm3zTwHLL1rU07acT7CZ1hyzKrsr0ulxTIUUzmIz7NWviRuJVISIxIX6roS7Rk3CcJmxD9dgihg=w330',
+        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/f80be2ddc9dd192771ee83cea3022e6f3dda3114/images/RastaFrog.svg',
         title: 'All Cal Tribe Collectables Owners',
         content: 'Private Merch store (merch for members and their cali tribe art work)'
       },
       {
-        image: 'https://lh3.googleusercontent.com/y7XOxpLMGgDu0F2h5i0EU6o3yW0c2iS4kvKbdk0TmAv5N6Yijng1cF5Ov3vZqTjQkDVUf4d5IUPJTGZWA1GILTcq164X9XPOXQQS=w330',
+        image: 'https://raw.githubusercontent.com/The-Street-Metaverse/CaliTribeWebsite/f80be2ddc9dd192771ee83cea3022e6f3dda3114/images/RastaFrog.svg',
         title: '10000 final sales',
         content: (<>
           Charity donation to animal shelters (Community votes)<br />
