@@ -18,8 +18,9 @@ const TeamContainerItem: FunctionComponent<TeamContainerItemProps> = ({ image, t
         height="330"
         className={styles.image}
         priority
-        unoptimized={Configuration.unoptimizedImages}
-        loader={Configuration.imagesLoader}
+        unoptimized
+ //       unoptimized={Configuration.unoptimizedImages}
+ //       loader={Configuration.imagesLoader}
       />
       <div className={styles.content}>
         <h3 className={styles.title}>{title}</h3>
