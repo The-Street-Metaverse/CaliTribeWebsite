@@ -27,7 +27,9 @@ const Footer: FunctionComponent<FooterProps> = ({ id, title, content }) => {
         &copy; {year} — {Configuration.title}. All rights reserved.
       </div>
       <div className={styles.copyright}>
-        <img src="" height="300">
+        {
+          image: 'https://lh3.googleusercontent.com/DEwYW2YzgdNQeNWzDnexr0kylmo-NZ2AI75_d6piM9lxx8YnzUz7vC5zs5_GO_XzbRAkbUUh5mGLRFWWoew4sw1r-SwR1UmAxfF0zQ=w600',
+        }
       </div>
     </Container>
   )
