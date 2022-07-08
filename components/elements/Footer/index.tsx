@@ -27,7 +27,10 @@ const Footer: FunctionComponent<FooterProps> = ({ id, title, content }) => {
         &copy; {year} — {Configuration.title}. All rights reserved.
       </div>
       <div className={styles.copyright}>
-        img["src"] = "https://picsum.photos/200/301"; </br>
+        const img = new Image(100, 200); // width, height
+        img.src = "https://picsum.photos/200/301";
+        document.body.appendChild(img);
+        </br>
         NFTARTPEDIA
       </div>
     </Container>
