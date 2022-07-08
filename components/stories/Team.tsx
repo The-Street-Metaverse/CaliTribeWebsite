@@ -12,8 +12,9 @@ const Team: FunctionComponent = () => {
           title: 'D"Artagnan',
           role: 'Dev/Techie',
           social: [
-            'https://www.instagram.com/',
-            'https://www.tiktok.com/'
+            'https://www.instagram.com/thecultivartribes/',
+            'https://t.me/cultivartribes',
+            'https://medium.com/cultivar-tribes'
           ]
         },
         {
@@ -21,9 +22,9 @@ const Team: FunctionComponent = () => {
           title: 'Pavvy',
           role: 'Artist/Animator',
           social: [
-            'https://medium.com/',
-            'https://www.tiktok.com/',
-            'https://www.instagram.com/'
+            'https://medium.com/cultivar-tribes',
+            'https://t.me/cultivartribes',
+            'https://www.instagram.com/thecultivartribes/'
           ]
         },
         {
@@ -31,8 +32,9 @@ const Team: FunctionComponent = () => {
           title: 'Alya',
           role: 'Creative Director',
           social: [
-            'https://www.linkedin.com/',
-            'https://medium.com/'
+            'https://medium.com/cultivar-tribes',
+            'https://t.me/cultivartribes',
+            'https://www.instagram.com/thecultivartribes/'
           ]
         },
         {
@@ -40,9 +42,9 @@ const Team: FunctionComponent = () => {
           title: 'Lawana',
           role: 'Marketeer',
           social: [
-            'https://medium.com/',
-            'https://www.tiktok.com/',
-            'https://youtube.com'
+            'https://www.instagram.com/thecultivartribes/',
+            'https://t.me/cultivartribes',
+            'https://medium.com/cultivar-tribes'
           ]
         },
         // {
