@@ -24,14 +24,8 @@ const Footer: FunctionComponent<FooterProps> = ({ id, title, content }) => {
       </div>
       {/* Copyright */}
       <div className={styles.copyright}>
-        &copy; {year} — {Configuration.title}. All rights reserved.
-      </div>
-      <div className={styles.copyright}>
-        const img = new Image(100, 200); // width, height
-        img.src = "https://picsum.photos/200/301";
-        document.body.appendChild(img);
-        </br>
-        NFTARTPEDIA
+        &copy; {year} — {Configuration.title}. All rights reserved.</br>
+      <img src="">NFTARTPEDIA
       </div>
     </Container>
   )
