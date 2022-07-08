@@ -1,6 +1,6 @@
 import { FunctionComponent, useMemo } from 'react'
 import { HiGlobe } from "react-icons/hi";
-import { SiTiktok, SiYoutube, SiInstagram, SiFacebook, SiTwitter, SiDiscord, SiLinkedin, SiMedium } from "react-icons/si";
+import { SiTiktok, SiYoutube, SiInstagram, SiFacebook, SiTwitter, SiDiscord, SiLinkedin, SiMedium, SiTelegram } from "react-icons/si";
 import styles from './SocialLink.module.scss'
 
 const SocialLink: FunctionComponent<SocialLinkProps> = ({ link, large }) => {
@@ -22,6 +22,8 @@ const SocialLink: FunctionComponent<SocialLinkProps> = ({ link, large }) => {
         return SiDiscord
       case 'linkedin.com':
         return SiLinkedin
+      case 't.me':
+        return SiTelegram
         case 'medium.com':
           return SiMedium
       default:
