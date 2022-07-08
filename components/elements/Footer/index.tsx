@@ -24,7 +24,7 @@ const Footer: FunctionComponent<FooterProps> = ({ id, title, content }) => {
       </div>
       {/* Copyright */}
       <div className={styles.copyright}>
-        &copy; {year} — {Configuration.title}. All rights reserved.</br>
+        &copy; {year} — {Configuration.title}. All rights reserved.
       NFTARTPEDIA
       </div>
     </Container>
