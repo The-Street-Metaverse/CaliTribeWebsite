@@ -10,6 +10,7 @@ const MainFooter: FunctionComponent = () => {
     'https://twitter.com/cultivartribes',
     'https://www.facebook.com/streetcultivars',
     'https://www.instagram.com/thecultivartribes/',
+    'https://t.me/cultivartribes',
 //    'https://www.tiktok.com/',
 //    'https://www.youtube.com/',
   ]), []);
